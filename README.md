@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Mariam Awad Alla from Egypt. I'm a Highly motivated Computer Engineering student with a strong dedication to academic excellence and a passion for the field. Equipped with a solid foundation in programming languages, algorithms, and data structures, I am committed to expanding my knowledge and gaining hands-on experience in software development and engineering. </h4>
+<h4> I'm Mariam Awad Alla from Egypt. I'm a Highly motivated Computer Engineering student with a strong dedication to academic excellence and a passion for the field. Equipped with a solid foundation in programming languages like C, C++, C# nd python, algorithms, and data structures, I am committed to expanding my knowledge and gaining hands-on experience in software development and engineering. </h4>
 
 
 
